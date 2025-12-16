@@ -2,7 +2,7 @@
 
 **Site Reliability Engineer | DevOps Specialist**  
 📍 United Kingdom 
-✉️ `affadu.patrick@gmail.com` | 📱 +44 7780374478
+✉️ `affadu.patrick@gmail.com` 
 
 ---
 
@@ -102,7 +102,6 @@ My philosophy is simple: **automate everything, monitor relentlessly, and learn 
 ## 📫 Let's Connect
 
 - **Email:** [affadu.patrick@gmail.com](mailto:affadu.patrick@gmail.com)
-- **Phone:** +44 7780374478
 - **Location:** United Kingdom
 
 ---
