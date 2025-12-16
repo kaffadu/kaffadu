@@ -52,35 +52,6 @@ My philosophy is simple: **automate everything, monitor relentlessly, and learn 
 
 ---
 
-## 💼 Professional Experience
-
-### **Site Reliability Engineer** @ Sky UK *(Hybrid, May 2025 - Present)*
-- Supporting linear channel delivery systems for millions of viewers across Sky's broadcast and streaming services
-- Building and maintaining AWS EKS Kubernetes clusters for high-traffic production workloads
-- Implementing Infrastructure as Code (IaC) solutions using Terraform
-- Enhancing CI/CD pipelines in Jenkins for automated deployments
-- Managing production observability with Prometheus, Grafana, and Alertmanager
-
-### **DevOps Engineer** @ Pollynz Consults *(Remote, Jul 2024 – Apr 2025)*
-- Implemented ArgoCD for GitOps-based continuous delivery in Kubernetes (reduced failures by 60%)
-- Managed AWS compute services (EC2, ECS, ECR) and networking (VPC, Load Balancers)
-- Utilized Terraform for automated infrastructure provisioning
-- Established robust CI/CD pipelines using Jenkins and GitHub Actions
-
-### **Platform Engineer** @ Cloudrock Consulting Limited *(London, Jun 2021 - Jun 2024)*
-- Designed automated CI/CD pipelines using Jenkins with SonarQube integration
-- Contributed to infrastructure development using Terraform
-- Supported Docker and Kubernetes clusters on AWS
-- Implemented monitoring and logging solutions for application performance
-
-### **DevOps Engineer** @ Carter Global UK Limited *(London, Sep 2018 - Jun 2021)*
-- Designed and managed CI/CD pipelines using Maven
-- Enhanced AWS networking for financial services applications
-- Developed Ansible playbooks for server automation
-- Automated infrastructure provisioning using Terraform
-
----
-
 ## 📈 GitHub Stats & Activity
 
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaffadu&show_icons=true&theme=radical)
